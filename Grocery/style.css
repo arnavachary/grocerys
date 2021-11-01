@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(235, 231, 231) !important;
+}
+
+.grocery{
+    background-color: white;
+    width: 40vw;
+    height: auto;
+    margin: 200px auto;
+    border-radius: 5%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    min-height: 40vh;
+}
+
+.grocery > h3{
+    text-align: center;
+    padding: 50px;
+}
+
+.list{
+    margin: 20px 40px;
+    
+}
+
+#alert{
+    display: none;
+}
